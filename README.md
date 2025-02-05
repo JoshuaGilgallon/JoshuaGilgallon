@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Josh</h1>
-<h3 align="center">A passionate full-stack developer from Australia</h3>
+<h3 align="center">Full-stack developer from Perth, Australia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshuagilgallon&label=Profile%20views&color=0e75b6&style=flat" alt="joshuagilgallon" /> </p>
 
-- 🔭 I’m currently working on **a secret project**
+- 🔭 I’m currently working on multiple projects
 
 - 💬 Ask me about **AI**
 
-- 📫 How to reach me **joshuagilgallon@outlook.com**
+- 📫 Reach me @ **joshuagilgallon@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

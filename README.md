@@ -5,7 +5,7 @@
 </div>
 
 ## 🚀 About Me
-Full-stack developer based in Perth, Australia, passionate about building innovative solutions and exploring new technologies. Currently working on multiple exciting projects!
+Full-stack developer based in Perth, Western Australia. Working on multiple projects behind the scenes.
 
 ## 💬 Get in Touch
 - Email: joshuagilgallon@outlook.com

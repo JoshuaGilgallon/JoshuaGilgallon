@@ -1,7 +1,6 @@
-# 👋 Hi, I'm Josh
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=joshuagilgallon&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</div>
+# 👋 Hi, I'm Josh 
+<img src="https://komarev.com/ghpvc/?username=joshuagilgallon&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+
 
 ----
 

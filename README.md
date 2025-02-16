@@ -61,7 +61,3 @@ Full-stack developer based in Perth, Western Australia.
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![GTK](https://img.shields.io/badge/-GTK-4A90E2?style=flat-square&logo=gtk&logoColor=white)
 ![wxWidgets](https://img.shields.io/badge/-wxWidgets-007ACC?style=flat-square&logo=wxwidgets&logoColor=white)
-
----
-
-💡 **Ask me about AI and tech solutions!**

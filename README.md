@@ -14,10 +14,9 @@ I'm a passionate full-stack developer based in Perth, Western Australia. I love 
 <details>
 <summary>🌟 More about me</summary>
 
-- 🔭 I'm currently working on: *[Your current project]*
-- 🌱 I'm currently learning: *[What you're learning]*
-- 💬 Ask me about: React, Next.js, Python, or Game Development
-- ⚡ Fun fact: *[An interesting fact about yourself]*
+- 🔭 I'm currently working on: *My own Auth API*
+- 🌱 I'm currently learning: *GIN API*
+- 💬 Ask me about: Next.js, Python, Golang, and anything related to AI
 </details>
 
 ## 🚀 Tech Stack

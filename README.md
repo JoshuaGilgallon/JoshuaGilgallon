@@ -2,8 +2,6 @@
 
 <div align="left"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=38B2AC&width=435&lines=Full-stack+Developer;AI+%26+ML+Enthusiast;UI%2FUX+Designer" alt="Typing SVG" /> </div>
 
----
-
 <div align="center">
   <br/>
   <h3>Currently listening to:</h3>

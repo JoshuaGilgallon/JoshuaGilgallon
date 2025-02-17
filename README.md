@@ -1,6 +1,8 @@
 # Josh Gilgallon <img src="https://komarev.com/ghpvc/?username=joshuagilgallon&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=38B2AC&width=435&lines=Full-stack+Developer;AI+%26+ML+Enthusiast;UI%2FUX+Designer&center=true" alt="Typing SVG" /> </div>
+<div align="left"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=38B2AC&width=435&lines=Full-stack+Developer;AI+%26+ML+Enthusiast;UI%2FUX+Designer" alt="Typing SVG" /> </div>
+
+---
 
 <div align="center">
   <br/>

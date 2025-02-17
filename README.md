@@ -1,10 +1,9 @@
 # Josh Gilgallon <img src="https://komarev.com/ghpvc/?username=joshuagilgallon&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
 <div align="center">
+  <h3>Welcome to my GitHub 👋</h3>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=38B2AC&width=435&lines=Full-stack+Developer;AI+%26+ML+Enthusiast;UI%2FUX+Designer&center=true" alt="Typing SVG" />
   <br/>
-  <br/>
-
   <h3>Currently listening to:</h3>
   
   [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=nvlujlh4k7g3zs0pe3b3xniwu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=nvlujlh4k7g3zs0pe3b3xniwu&redirect=true)

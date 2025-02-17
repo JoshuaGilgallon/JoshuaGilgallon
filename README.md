@@ -5,7 +5,7 @@
   <br/>
   <br/>
   
-  ![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=nvlujlh4k7g3zs0pe3b3xniwu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=nvlujlh4k7g3zs0pe3b3xniwu&redirect=true)
 </div>
 
 ## 👨‍💻 About Me

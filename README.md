@@ -1,9 +1,5 @@
 # Josh Gilgallon <img src="https://komarev.com/ghpvc/?username=joshuagilgallon&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
-<div align="left"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=38B2AC&width=435&lines=Full-stack+Developer;AI+%26+ML+Enthusiast;Student;Next+Js;Golang;Python" alt="Typing SVG" /> 
-</div>
-
 <div align="center">
   <br/>
   <h3>Currently listening to:</h3>
@@ -12,15 +8,7 @@
 </div>
 
 ## 👨‍💻 About Me
-I'm a passionate full-stack developer based in Perth, Western Australia. I love working with cutting-edge technologies and building creative solutions.
-
-<details>
-<summary>🌟 More about me</summary>
-
-- 🔭 I'm currently working on: *My own Auth API*
-- 🌱 I'm currently learning: *GIN API*
-- 💬 Ask me about: Next.js, Python, Golang, and anything related to AI
-</details>
+I'm a full-stack developer and student based in Perth, Western Australia.
 
 ## 🚀 Tech Stack
 
@@ -35,7 +23,7 @@ I'm a passionate full-stack developer based in Perth, Western Australia. I love 
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 </details>
 
-<details>
+<details open>
 <summary>🛠️ Backend</summary>
 <br>
 

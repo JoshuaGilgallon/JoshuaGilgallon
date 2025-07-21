@@ -67,6 +67,8 @@ I'm a full-stack developer and student based in Perth, Western Australia.
 
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/-Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
+![.NET MAUI](https://img.shields.io/badge/-.NET_MAUI-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Lynx](https://img.shields.io/badge/-Lynx-FF6B35?style=for-the-badge&logo=lynx&logoColor=white)
 </details>
 
 <details>

@@ -146,29 +146,33 @@ I’m currently working on a few different projects - see more on my website
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joshuagilgallon&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="GitHub stats" height="170" />
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=joshuagilgallon&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="GitHub stats" height="170" /> --!>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuagilgallon&layout=compact&theme=tokyonight&langs_count=10&card_width=320" alt="Top languages" height="170" />
-</p>
+</p> 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joshuagilgallon&theme=tokyonight" alt="GitHub streak" />
 </p>
 
+<!--
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=joshuagilgallon&theme=discord&row=1&no-bg=true&margin-w=10&margin-h=10" alt="Trophies" />
   </a>
 </p>
+--!>
 
+<!--
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=joshuagilgallon&theme=tokyo-night&area=true&hide_border=true" alt="Contribution graph" />
 </p>
+--!>
 
+<!--
 <p align="center">
   <img src="https://metrics.lecoq.io/joshuagilgallon?template=classic&base.repositories=0&languages=1&languages.limit=8&languages.colors=github&languages.sections=most-used&config.timezone=Australia/Perth" alt="Metrics: languages" />
 </p>
-
----
+--!>
 
 <!-- Spotify  -->
 ### 🎧 Spotify

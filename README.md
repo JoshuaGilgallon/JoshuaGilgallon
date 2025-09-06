@@ -21,7 +21,7 @@
   <a href="https://twitter.com/joshgilgallon">
     <img alt="X (Twitter)" src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white">
   </a>
-  <a href="https://discord.com/users/985064786473668618">
+  <a href="https://discord.com/users/986935643458400296">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
   <!--
